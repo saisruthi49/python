@@ -1,0 +1,11 @@
+# tup=tuple("sruthi")
+# print(tup)
+
+# A tuple is an immutable ordered collection of elements.
+
+# Tuples are similar to lists, but unlike lists, they cannot be changed after their creation.
+# Can hold elements of different data types.
+# These are ordered, heterogeneous and immutable.
+
+tuple="sruthi"
+print(tuple[0])
